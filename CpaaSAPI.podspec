@@ -16,6 +16,7 @@ Pod::Spec.new do |s|
     s.platform = :ios
     s.swift_version = "4.2"
     s.ios.deployment_target  = '13.0'
+    s.dependency 'CpaaSAPIWebRTCFramework', '~> 0.1.0'
     s.dependency 'CpaaSAPIAWSMobileClient', '~> 0.1.0'
 
 end
