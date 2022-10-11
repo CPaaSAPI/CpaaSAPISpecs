@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
     s.homepage     = "https://github.com/CPaaSAPI"
     s.license = { :type => 'MIT'}
     s.author             = { "$(git config user.name)" => "$(git config user.email)" }
-    s.source       = { :git => "https://github.com/CPaaSAPI/iOSFrameworkDistribution.git", :tag => "#{s.version}"}
+    s.source       = { :git => "https://github.com/CPaaSAPI/CPaaSAPIAWSMobileClient.git", :tag => "#{s.version}"}
     s.public_header_files = "AWSMobileClient.framework/Headers/*.h"
     s.source_files = "AWSMobileClient.framework/Headers/*.h"
     s.vendored_frameworks = "AWSMobileClient.framework"
