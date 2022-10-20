@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-    s.name         = "CpaaSAPIWebRTCFramework"
+    s.name         = "CpaaSAPIWebRTCFramework_iOS"
     s.version      = "0.3.0"
     s.summary      = "CpaaSAPIWebRTCFramework framework."
     s.description  = <<-DESC
