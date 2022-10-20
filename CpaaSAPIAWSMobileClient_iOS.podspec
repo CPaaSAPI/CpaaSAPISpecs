@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
     s.name         = "CpaaSAPIAWSMobileClient_iOS"
-    s.version      = "0.6.0"
+    s.version      = "0.2.0"
     s.summary      = "CpaaSAPIAWSMobileClient framework."
     s.description  = <<-DESC
         CpaaSAPIAWSMobileClient helper framework.
