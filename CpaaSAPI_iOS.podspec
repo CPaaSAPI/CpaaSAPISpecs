@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
     s.name         = "CpaaSAPI_iOS"
-    s.version      = "0.5.0"
+    s.version      = "0.6.0"
     s.summary      = "CPaaSAPI voice"
     s.description  = <<-DESC
     CPaaSAPI voice support framework
